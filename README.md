@@ -5,10 +5,7 @@ The Hurricane Research Division produced surface wind analysis of tropical cyclo
 In 2014, this technology was transferred to Hwind Scientific, a US private sector firm as allowed under the Technology Transfer Act of 1986 (15 US Code 3710). Hwind Scientific is now Moody's RMS HWind.
 
 
-Their real-time and post storm wind field products are available at
-
-
-www.rms.com/event-response/hwind
+Their real-time and post storm wind field products are available at www.rms.com/event-response/hwind
 
 
 RMS Hwind will also offer a revised historical archive with user support, time-centered, post storm analyses, larger domains, higher resolution grids, consistent analysis methodologies, and error corrections.
